@@ -1,4 +1,4 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
+//please contact me your-house.vn
 //website http://your-house.vn or http://your-house.vn
 
 (function($) {
