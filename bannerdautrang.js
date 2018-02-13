@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://your-house.vn' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>Bán Căn Hộ HQC Bình Trưng Đông</a>. Liên Hệ Chủ Đầu Tư Dự Án. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://your-house.vn' target='_blank'><img src='https://3.bp.blogspot.com/-jMB5ARnXPv8/WoKD8IzkdBI/AAAAAAAAC6I/1zsAA9N9GeIc95mlpO-ZJKguOgoAZXVfQCLcBGAs/s1600/can-ho-mau-the-ascent-1_noi-that-chung-cu.jpg' width='500px'/><br/>Bán Căn Hộ HQC Bình Trưng Đông</a>. Liên Hệ Chủ Đầu Tư Dự Án. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
