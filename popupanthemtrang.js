@@ -1,8 +1,7 @@
-
 	var url_popup = 'http://your-house.vn';
 
       //<![CDATA[
-
+	  // var url_ppp = 'http://your-house.vn';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
